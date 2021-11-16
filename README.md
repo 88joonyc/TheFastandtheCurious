@@ -109,6 +109,8 @@ Paul
 
 Gerryl
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][4]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][7]
+[GerrylEsperacion@gmail.com](mailto:gerrylesperacion@gmail.com)
 
 John Borja
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][5]
@@ -124,6 +126,7 @@ Colin
 
 <!-- Gerryl -->
 [4]: https://github.com/jurrel
+[7]: https://www.linkedin.com/in/gerryle/
 
 <!-- John -->
 [5]: https://github.com/jborja-one
